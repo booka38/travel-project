@@ -43,3 +43,7 @@ h1 {
   color: black !important;
   transition: all 0.3s ease-in-out;
 }
+.carousel-dark .carousel-control-next-icon,
+.carousel-dark .carousel-control-prev-icon {
+  filter: unset !important;
+}
